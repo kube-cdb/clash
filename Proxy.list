@@ -43,7 +43,7 @@ DOMAIN-SUFFIX,kuajing.uk
 DOMAIN-SUFFIX,metacubex.one
 
 #k8s
-DOMAIN,asia-east1-docker.pkg.dev
+DOMAIN-SUFFIX,pkg.dev
 DOMAIN-SUFFIX,k8s.io
 
 IP-CIDR,8.8.8.8/32,no-resolve
